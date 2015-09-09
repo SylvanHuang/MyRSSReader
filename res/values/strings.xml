@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">凤凰新闻</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="rss_urls">点击下框可换源</string>
+    <string name="title_activity_main">凤凰新闻</string>
+    <string name="details_title">详情</string>
+    <string name="update_rss">更新RSS</string>
+    
+</resources>

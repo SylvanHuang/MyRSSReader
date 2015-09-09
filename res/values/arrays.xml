@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rss_source_urls">
+        <item>http://news.ifeng.com/rss/index.xml</item>
+        <item>http://news.ifeng.com/mil/rss/index.xml</item>
+        <item>http://news.ifeng.com/history/rss/index.xml</item>
+        <item>http://news.ifeng.com/rss/mainland.xml</item>
+        <item>http://news.ifeng.com/rss/taiwan.xml</item>
+        <item>http://news.ifeng.com/rss/world.xml</item>
+        <item>http://news.ifeng.com/rss/society.xml</item>
+        <item>http://news.ifeng.com/rss/photo.xml</item>
+        <item>http://news.ifeng.com/opinion/rss/index.xml</item>
+        <item>http://news.ifeng.com/sports/rss/index.xml</item>
+    </string-array> 
+    <string-array name="rss_source_name">
+        <item>综合资讯</item>
+        <item>军事频道</item>
+        <item>历史频道</item>
+        <item>大陆新闻</item>
+        <item>台湾新闻</item>
+        <item>国际新闻</item>
+        <item>社会新闻</item>
+        <item>图片新闻</item>
+        <item>评论频道</item>
+        <item>体育频道</item>
+    </string-array>
+</resources>
